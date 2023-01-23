@@ -1,5 +1,4 @@
 # javascript-object-literals
-# es6-classes-examples
 Working with these files there are a some options on how to see the output.
 - Create an index.html file and link the script for each section
 - Then run live server from VSCode
